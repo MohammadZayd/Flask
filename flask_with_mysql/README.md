@@ -1,5 +1,4 @@
-#Flask web app with MySQL Integration
-
+# Flask web app with MySQL Integration
 
 This Flask-based web application allows users to manage trainer details through a MySQL database. It provides functionalities to create new trainer records, view existing records, and edit trainer information.
 
