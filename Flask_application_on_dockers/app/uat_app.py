@@ -6,7 +6,7 @@ import time as t
 from jira import JIRA
 import re
 
-user = "zaydansari786@gmail.com"
+user = "<add jira email address here>"
 apitoken= "<add jira api token here>"
 
 app = Flask(__name__)
