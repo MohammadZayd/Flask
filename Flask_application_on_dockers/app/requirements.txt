@@ -1,0 +1,6 @@
+Flask
+Flask-MySQLdb
+jira
+mysqlclient
+mysql-connector
+datetime
