@@ -7,7 +7,7 @@ from jira import JIRA
 import re
 
 user = "zaydansari786@gmail.com"
-apitoken= "ATATT3xFfGF0fJLn3BBV5KvLYHlsWOPPP6_9a2rGMjA2_5YHHXd8_KkvW1eX8FQSQOX5inISU4Mjvnwit1YkJyPCMHGozxDHDM2KEWqRlwRQ44kPZuTRzkHjTsxVEb__hg6Mxpr6qhXnwDhW_PiHIyrmNKfxual3RJoEZ0MiBCNI2AlgDNBNDGA=9454FB8A"
+apitoken= "<add jira api token here>"
 
 app = Flask(__name__)
 app.config['MYSQL_HOST'] = 'db'
